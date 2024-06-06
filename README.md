@@ -1,5 +1,9 @@
 # osgenealogy
 
+## Desenvolvedores
+- José Matheus
+- Clériston Victor
+
 ## Project setup
 ```
 npm install
